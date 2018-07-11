@@ -40,7 +40,7 @@ bibliography:
 ```{r setup, include=FALSE, echo = FALSE}
 
 # Load packages used in this exercise
-library(ggplot2)
+library(tidyverse)
 library(rmarkdown)
 library(DT)
 ```

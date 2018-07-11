@@ -1,5 +1,7 @@
 install.packages("rmarkdown")
 install.packages("bitops")
 install.packages("caTools")
-install.packages("ggplot2")
+install.packages("tidyverse")
 install.packages("DT")
+install.packages("rorcid")
+install.packages("httpuv")
